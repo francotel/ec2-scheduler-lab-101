@@ -1,0 +1,23 @@
+# Copy this file to terraform.tfvars and replace the placeholder values.
+
+project_name = "francotel-ec2-scheduler"
+aws_region   = "us-east-1"
+
+instance_ids = [
+  "i-0123456789abcdef0",
+  "i-0fedcba9876543210"
+]
+
+schedule_timezone = "America/Lima"
+
+# Monday through Saturday at 08:00 and 21:00 in the configured time zone.
+start_schedule_expression = "cron(0 8 ? * MON-SAT *)"
+stop_schedule_expression  = "cron(0 21 ? * MON-SAT *)"
+
+# Keep disabled for the first terraform apply. Enable after reviewing the resources.
+schedule_enabled = false
+
+additional_tags = {
+  Environment = "lab"
+  Owner       = "francotel"
+}
