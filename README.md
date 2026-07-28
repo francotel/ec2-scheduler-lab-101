@@ -3,14 +3,9 @@
 ![AWS EC2 Scheduler Lab 101](ec2-sche.png)
 
 ![](https://komarev.com/ghpvc/?username=francotel&abbreviated=true&style=for-the-badge)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Franco%20Navarro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franconavarro/)
-
 [![GitHub](https://img.shields.io/badge/GitHub-francotel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/francotel)
 
-[![Terraform](https://img.shields.io/badge/Terraform-IaC-844FBA?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
-[![AWS](https://img.shields.io/badge/AWS-EventBridge%20Scheduler-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/eventbridge/scheduler/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Franco%20Navarro-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franconavarro/)
 
 ## Overview
 
